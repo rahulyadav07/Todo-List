@@ -1,4 +1,3 @@
 # Todo-List
-Completed Project 
-finshied room database
-project is not completed
+project is not completed yet.
+
