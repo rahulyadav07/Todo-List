@@ -1,0 +1,2 @@
+rootProject.name = "Daily Task"
+include ':app'
